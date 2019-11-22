@@ -129,7 +129,7 @@ Node server running on port 3000
 ## Running Your Tests
 
 
-![alt text](https://ibb.co/CHQhjdn "GIF Image")
+![alt text](https://i.ibb.co/YLhp59t/GIF.gif "GIF Image")
 
 Run your test suite using the command:
 
