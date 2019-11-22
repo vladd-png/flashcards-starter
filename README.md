@@ -126,17 +126,17 @@ To verify that it is setup correctly, run `npm test` in your terminal. You shoul
 Node server running on port 3000
 ```
 
-## Running Your Tests
+## Running Your Game
 
 
 ![alt text](https://i.ibb.co/YLhp59t/GIF.gif "GIF Image")
 
-Run your test suite using the command:
+Run your game suite using the command:
 
 ```bash
-npm test
+node index.js
 ```
 
-The test results will output to the terminal.
+The game will display in the terminal.
 
 
