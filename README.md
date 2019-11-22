@@ -1,35 +1,19 @@
 # FlashCards Starter Kit
 
-## Fork This Repo
+## Module 2 : Solo Project : Virginia Ladd
 
-On the top right corner of this page, click the **Fork** button.
+## About the Project
 
-## Setup
+This is the first project of Module 2. We were instructed to clone down a repo of https://github.com/turingschool-examples/flashcards-starter and edit to make the 'game' work. Initial setup included creating a card and deck class, with matching test files. Moving forward we created a turn and round class, to hold and use the cards and deck. Finally we were required to edit the game and provided util class to get out 'game' working in the CLI, command line terminal. Part of the project requirements were to also make accompanying test files for each object class we created. This project focused on TDD, Test Driven Development, practices, and asked us to build out the tests before building out the code, so we had a deeper understanding of the process and benefits of TDD. 
 
-Clone down the forked repo (from your GitHub). Since you don't want to name your project "flashcards-starter", you can use an optional argument when you run `git clone` (you replace the `[...]` with the terminal command arguments):
-
-```bash
-git clone [remote-address] [what you want to name the repo]
+## Class Requirements
+#### Card Class
+1. A Card represents a single flashcard
+2. Each card has an id, a question, possible answers, and a correct answer
+For example:
 ```
-
-Once you have cloned the repo, change into the directory and install the library dependencies. Run:
-
-```bash
-npm install
+const card = new Card(1, 'What is Robbie\'s favorite animal', ['sea otter', 'pug', 'capybara'], 'sea otter');
 ```
-
-To verify that it is setup correctly, run `npm test` in your terminal. You should have 5 pending tests in your `Card` test file that show up.
-
-Running `node index.js` from the root of your project should result in the following message being displayed in your terminal: 
-
-```bash
-Node server running on port 3000
-```
-
-*Note that you will not need to you run your server until you are instantiating your `Game` class in Iteration 3. Prior to that, you should be using TDD to drive your code. You should check the functionality of your application by running your tests via `npm test`.*
-
-
-## Where to Add Your Code
 
 ### JavaScript
 
