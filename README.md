@@ -128,6 +128,8 @@ Node server running on port 3000
 
 ## Running Your Tests
 
+http://g.recordit.co/dXXVJ0WPKe.gif
+
 Run your test suite using the command:
 
 ```bash
