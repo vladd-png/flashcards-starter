@@ -128,7 +128,8 @@ Node server running on port 3000
 
 ## Running Your Tests
 
-http://g.recordit.co/dXXVJ0WPKe.gif
+
+![alt text](https://ibb.co/CHQhjdn"><img src="https://i.ibb.co/5RLBQD5/GIF.gif "GIF Image")
 
 Run your test suite using the command:
 
